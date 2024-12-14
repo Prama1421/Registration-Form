@@ -1,8 +1,8 @@
-Registration Form
-A fully responsive registration form for a website or application. The form includes client-side input validation and user-friendly error messages, ensuring a seamless and secure user experience.
+### Registration Form.
+A fully responsive registration form for a website or application. The form includes **client-side** input validation and user-friendly error messages, ensuring a seamless and secure user experience.
 
-Features
-Form Fields:
+### Features
+### Form Fields:
 
 Username: Accepts alphanumeric characters.
 Email: Validates email format (e.g., example@domain.com).
